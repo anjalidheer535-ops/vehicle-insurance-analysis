@@ -48,7 +48,3 @@ The dataset contains information about applicants such as:
 ## Conclusion
 This project provided hands-on experience in analyzing financial data and understanding decision-making patterns in loan approvals.
 
----
-
-## Project Link
-[
