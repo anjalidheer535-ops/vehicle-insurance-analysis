@@ -1,0 +1,54 @@
+#  Loan Approval Data Analysis
+
+##  Project Overview
+This project focuses on analyzing loan application data to understand the factors that influence loan approval decisions.
+
+---
+
+##  Tools & Technologies
+- Python
+- Pandas
+- NumPy
+- Jupyter Notebook
+
+---
+
+## Dataset Information
+The dataset contains information about applicants such as:
+- Gender
+- Marital Status
+- Education
+- Self Employed
+- Applicant Income
+- Coapplicant Income
+- Loan Amount
+- Loan Amount Term
+- Credit History
+- Property Area
+- Loan Status
+
+---
+
+## Key Steps Performed
+- Data Cleaning and Preprocessing  
+- Exploratory Data Analysis (EDA)  
+- Handling missing values  
+- Understanding applicant profiles  
+- Identifying approval patterns  
+
+---
+
+## Key Insights
+- Credit history plays a major role in loan approval  
+- Income level impacts loan eligibility  
+- Applicant demographics influence decisions  
+
+---
+
+## Conclusion
+This project provided hands-on experience in analyzing financial data and understanding decision-making patterns in loan approvals.
+
+---
+
+## Project Link
+[
